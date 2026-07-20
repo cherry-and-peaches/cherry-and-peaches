@@ -4,4 +4,4 @@
 
  🔭 I’m currently working on building a personal website
  🌱 I’m currently learning web development and python
- 📫 How to reach me: [Contact me](mailto:ayomide.inri@gmail.com)
+ 📫 How to reach me: <ayomide.inri@gmail.com>
